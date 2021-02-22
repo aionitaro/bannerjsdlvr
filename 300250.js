@@ -6,4 +6,4 @@
         document.body.appendChild(ifrm);
     }
     
-    prepareFrame()
+    prepareFrame();
